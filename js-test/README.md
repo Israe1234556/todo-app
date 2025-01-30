@@ -82,7 +82,7 @@ Une application de gestion de tâches (To-Do List) développée avec **React** e
 ```
 
 ## Lien du dépôt GitHub
-[https://github.com/janet-ashley/todo-app](https://github.com/janet-ashley/todo-app)
+[https://github.com/Israe1234556/todo-app]
 
 ## Auteur
-**TIADAM TCHINDA Janet Ashley**
+**lazizi israe**
